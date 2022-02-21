@@ -1,6 +1,6 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+etqwertewrtwert
 public class provaGIT {
 	public static final int[] taula = {1, 61, 3, 101, 34, -57, 173, 16, 119, 4, 472, 9, 6, 14, -123};
 	
